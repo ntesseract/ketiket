@@ -50,7 +50,7 @@ I'm not gonna Yap alot. And if you confused about installing, YouTube do exist t
 
 6. **Run or Start the development server:**
     ```bash
-    php artisan serve
+    composer run dev
     ```
 
 ## Configuration
@@ -66,4 +66,4 @@ Make sure to configure your environment variables in the `.env` file. Key settin
 
 ## Usage
 
-To use the application, navigate to `http://localhost:8000` in your web browser. You can now start interacting with the Qualifa application.
+To use the application, navigate to `http://localhost:8000` in your web browser. You can now start interacting with the ketiket application.
